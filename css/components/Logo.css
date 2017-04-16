@@ -1,0 +1,10 @@
+.Logo {
+  background: rgb(215, 66, 244) url('../../images/logo.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain; /*cover*/
+  display: inline-block;
+  height: 60px;
+  vertical-align: middle;;
+  width: 100px;
+}
